@@ -14,6 +14,7 @@ _(Heavily inspired by [Tania Rascia](https://www.taniarascia.com/learn/))_
 - [ ] [Haskell](/programming-languages/haskell.md)
 - [ ] [Lua](/programming-languages/lua.md)
 - [ ] [Perl](/programming-languages/perl.md)
+- [ ] Rust !!
 
 ### Computer Science
 #### Algorithms
